@@ -4,4 +4,5 @@ Investors’ attention could be regarded as one of the determinants of Bitcoin d
 
 ## Steps:  
 1) Google news parsing using parser in **Google_news_parser.ipynb**
-2) Data preprocessing using NLP techniques (NLTK, spaCy, TextBlob, Gensim) in **Google_news_preprocessing.ipynb**
+2) Cleaning of data and prepararion for sentiment extraction, first look at data in **Google_news_preprocessing.ipynb**
+3) Data preprocessing using NLP techniques (NLTK, spaCy, TextBlob, Gensim) in **Google_news_preprocessing.ipynb**
